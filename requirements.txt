@@ -1,0 +1,7 @@
+jupyter
+kaggle
+numpy
+tensorflow
+matplotlib
+flask
+PIL
