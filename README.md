@@ -19,4 +19,3 @@ jupyter notebook
 else the data will not be downloaded
 
 4. Start running the cells
-### Usage
